@@ -1,4 +1,4 @@
 .env
 .idea
 output.txt
-_pycache__/
+__pycache__/
